@@ -1,0 +1,132 @@
+#main
+{
+    height:2100px;
+    width:1500px;
+    background-color: rgb(219, 134, 219);
+}
+#u1
+{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    background-color:rgb(129, 3, 129);
+    position: fixed;
+    width:97%;
+    z-index: 1000;
+}
+li a
+        {
+            color:white;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            text-emphasis-style: italic;
+            padding:20px;
+        }
+ li a:hover
+        {
+            background-color: rgb(248, 103, 236);
+        }
+li.l1
+        {
+            float:left;
+        }
+
+        #n1
+        {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size:3cm ;
+            font-style: italic;
+            text-align: center;
+            position: relative;
+            bottom:850px;
+            text-decoration: underline;
+            color: rgb(87, 236, 216);
+            
+        }       
+        #n2
+        {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size:1.5cm ;
+            font-style: italic;
+            text-align: center;
+            position: relative;
+            bottom: 1000px;
+            text-decoration: underline;
+            color: rgb(87, 236, 216);
+            
+        }    
+       #i2
+       {
+           height:7cm;
+           width:7cm;
+           position: relative;
+           bottom:950px;
+           left:600px;
+       }    
+       #n3
+       {
+           font-size:1.5cm ;
+           position: relative;
+           bottom:700px;
+           left:50px;
+       }
+       #i1
+       {
+           width:1500px;
+       }
+       #n4
+       {
+           position: relative;
+           bottom:700px;
+       }
+       .d1 h1
+       {
+           text-align: center;
+       }
+       .d1 h3
+       {
+           text-align: justify;
+       }
+       .d1
+       {
+       width:350px;
+       border:5px solid black;
+       background-color: rgb(23, 6, 44);
+       color: gold;
+       border-radius: 15px;
+       padding:10px;
+       height:700px;
+       }
+       #n5
+       {
+           position: relative;
+           bottom:650px;
+           left:50px;
+       }
+       #n6
+       {
+           position: relative;
+           bottom:1285px;
+           left:550px;
+       }
+       #n7
+       {
+           position: relative;
+           bottom:1855px;
+           left:1050px;
+       }
+       #n8
+       {
+           width:350px;
+           height:150px;
+           background-color: rgb(63, 2, 27);
+           color:rgb(129, 219, 235);
+           border:5px double crimson;
+           border-radius: 25px;
+           padding:10px;
+           position: relative;
+           bottom:2850px;
+           left:1050px;
+       }
